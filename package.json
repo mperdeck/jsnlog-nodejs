@@ -1,0 +1,28 @@
+{
+  "name": "jsnlog-nodejs",
+  "version": "2.7.3",
+  "description": "Log messages with jsnlog.js on both client and server. This package jsnlog-nodejs receives log messages from the client and stores them in your server side logs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mperdeck/jsnlog-nodejs.git"
+  },
+  "keywords": [
+    "logging",
+    "client",
+    "exceptions",
+    "ajax",
+    "timeouts", 
+	"debugging",
+	"jsnlog"
+  ],
+  "author": "Matt Perdeck",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mperdeck/jsnlog-nodejs/issues"
+  },
+  "homepage": "http://nodejs.jsnlog.com/"
+}
