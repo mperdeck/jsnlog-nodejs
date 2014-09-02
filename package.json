@@ -1,7 +1,7 @@
 {
   "name": "jsnlog-nodejs",
   "version": "2.7.3",
-  "description": "Log messages with jsnlog.js on both client and server. This package jsnlog-nodejs receives log messages from the client and stores them in your server side logs.",
+  "description": "Lets you log messages on both client and server using jsnlog.js. This package jsnlog-nodejs receives log messages from the client and stores them in your server side logs.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
