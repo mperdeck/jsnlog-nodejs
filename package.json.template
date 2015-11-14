@@ -20,7 +20,7 @@
 	"jsnlog"
   ],
   "author": "Matt Perdeck",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mperdeck/jsnlog-nodejs/issues"
   },
