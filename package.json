@@ -1,6 +1,6 @@
 {
   "name": "jsnlog-nodejs",
-  "version": "2.17.0",
+  "version": "2.17.1",
   "description": "Lets you log messages on both client and server using jsnlog.js. This package jsnlog-nodejs receives log messages from the client and stores them in your server side logs.",
   "main": "index.js",
   "scripts": {
